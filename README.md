@@ -1,4 +1,4 @@
-# Exercício da tarde - POO 3
+# Exercício da tarde - Arquitetura 1
 
 <strong>A partir dessa semana os exercícios da tarde voltam a ser independentes. Não se preocupe em centralizá-los em um mesmo repo.</strong>
 <br><br>
